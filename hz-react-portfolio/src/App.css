@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,22 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+h1 {
+  display: flex;
+  padding: 10rem 5rem 10rem;
+  font-size: 6vw;
+  color: #f0efeb;
+  font-variant-caps: all-small-caps;
+}
+
+p {
+padding: 0rem 30rem 10rem;
+display: flex;
+font-size: xx-large;
+font-style: oblique;
+text-align: left;
+color: #ddbea9;
 }

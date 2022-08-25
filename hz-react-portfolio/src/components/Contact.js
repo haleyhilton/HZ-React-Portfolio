@@ -1,5 +1,5 @@
 import React from 'react';
-
+// import '../styles/Contact.css'
 import resume from '../images/Haley Hilton Zito (2).pdf';
 
 function Contact() {

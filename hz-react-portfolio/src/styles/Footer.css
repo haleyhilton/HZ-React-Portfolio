@@ -3,12 +3,27 @@
     display: flex;
     justify-content: center;
     bottom: 0;
-    background-color: rgba(30, 57, 74, 0.433);
-    height: 6em;
+    background-color: #b7b7a4;
+    height: 8em;
     width: 100%;
   }
 
   .links {
-    margin: 1.5rem;
+    margin: 2rem;
     display: flex;
+    font-size: large;
+    color: #fff1e6
+  }
+  :hover.links {
+    color: hsl(26, 100%, 95%, .5);
+
+  }
+
+  li {
+      list-style: none;
+      text-decoration: none
+  }
+
+  a {
+      text-decoration: none
   }
