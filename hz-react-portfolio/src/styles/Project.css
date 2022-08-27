@@ -1,0 +1,36 @@
+.card-img-top {
+    height: 20rem;
+    width: 30rem;
+}
+
+.project-card {
+    margin: 10px 5rem;
+    padding: 0rem;
+    /* font-size: large;
+    font-style: normal;
+    color: black; */
+}
+
+.card-body {
+    height: 15rem;
+    width: 30rem;
+}
+
+.project-card-view {
+    width: 30.1rem;
+}
+
+.card-text {
+    padding: 0rem;
+    font-size: large;
+    font-style: normal;
+    color: black;
+    } 
+
+    .container {
+        margin-bottom: 20rem;
+    }
+
+    .btn {
+        display: block;
+    }

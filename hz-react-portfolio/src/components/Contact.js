@@ -1,11 +1,11 @@
 import React from 'react';
-// import '../styles/Contact.css'
+import '../styles/Contact.css'
 import resume from '../images/Haley Hilton Zito (2).pdf';
 
 function Contact() {
     return (
         <div>
-        <section className="container">
+        <section className="contact-container">
             <a id="contact-me" />
             <div className="title">Contact Me</div>
             <ul>
@@ -16,7 +16,7 @@ function Contact() {
             <li><a href={resume} target="_blank" rel="noreferrer">Resume</a></li>
             </ul>
         </section>
-       \
+       
         </div>
     );
 }

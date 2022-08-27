@@ -11,9 +11,8 @@ function Project() {
     <Container fluid className="project-section">
       <Container>
         <h1 className="project-heading text-center">
-          Recent <strong className="yellow">Work</strong>
+          Recent Work
         </h1>
-        {/* <p>Below are some of my recent projects</p> */}
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                {projectData.map(project => (
                  <Col md={4} className="project-card" key={project.id}>

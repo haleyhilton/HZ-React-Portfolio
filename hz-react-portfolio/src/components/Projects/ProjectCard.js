@@ -9,15 +9,15 @@ function ProjectCard (props) {
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.image_url} alt={props.title} />
       <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
-        <Card.Text style={{ textAlign: "justify" }}>
+        <Card.Title><h4>{props.title}</h4></Card.Title>
+        <Card.Text>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.repo_url} target="_blank">
+        <Button variant="light" href={props.repo_url} target="_blank">
           <BiLinkExternal /> View Repo
         </Button>  
         
-        <Button variant="primary" href={props.deployed_url} target="_blank">
+        <Button variant="light" href={props.deployed_url} target="_blank">
           <BiLinkExternal /> View App
         </Button>
       </Card.Body>
