@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'RemboyRegular';
+  src: url('../Topbottom/RemboyRegular.woff') format('woff');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'KulimPark-SemiBold';
+  src: url('../Topbottom/KulimPark-SemiBold.woff') format('woff');
+}
+
+.navbar {
+  position: sticky;
+  display: flex;
+
+  justify-content: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+  background-color: #b7b7a4;
+  width: 100%;
+  align-items: center;
+}
+
+
+.nav-tabs {
+  margin: 0;
+  font-size: 3rem;
+  display: flex;
+  align-content: center;
+  font-size: x-large;
+
+}
+
+.nav-link{
+  color: #fff1e6;
+  background-color: #b7b7a4;
+  border: none;
+}
+.nav-link:hover{
+    color: rgb(255, 241, 230, .5);
+    background-color: #b7b7a4;
+    border: none;
+  }
+
+
+.nav-item {
+  margin: 2rem;
+  color: #fff1e6}
+
+
+.active {
+  color: #fff1e6 !important;
+  background-color: #b7b7a4 !important;
+  border: none !important;
+}
+
+
+.navbar-custom {
+  background-color: #b7b7a4;
+  padding: 2rem 1rem;
+
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: white;
+  font-family: 'RemboyRegular';
+  font-size: 10vw;
+  text-decoration: none;
+}
+
+.nav-link {
+  color: #fff1e6;
+  font-family: 'SulphurPoint-Regular';
+}
+
+.navbar-brand {
+  /* padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem; */
+  margin-right: 1rem;
+  white-space: nowrap;
+  font-family: 'RemboyRegular', sans-serif;
+  position: sticky;
+  display: flex;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+  background-color: #b7b7a4;
+  width: 100%;
+  align-items: center;
+  color: white;
+  font-size: 10vw;
+  justify-content: center;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.navbar-nav .dropdown-menu {
+  position: static;
+}
+
+/* .navbar-text {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+} */
+
+
+#contact-info {
+  text-decoration: none;
+  color: white;
+}
+
+.masthead {
+  /* padding-top: calc(6rem + 74px); */
+  padding-bottom: 8rem;
+  background-color: rgb(255, 241, 230, .25);
+  
+}
+
+.masthead .masthead-heading {
+  font-size: 2.75rem;
+  line-height: 2.75rem;
+  color: #126782;
+  font-family: 'KulimPark-SemiBold', sans-serif;
+
+}
+
+/* .masthead .masthead-subheading {
+  font-size: 1.25rem;
+  color: rgb(18, 103, 130, .8);
+  padding: 1rem;
+  font-family: 'KulimPark-Regular';
+
+} */
+

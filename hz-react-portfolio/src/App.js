@@ -1,11 +1,11 @@
 import './/App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, {useState} from "react";
-import Header from "./components/Header";
-import About from "./components/About";
+import Header from "./components/Topbottom/Header";
+import About from "./components/About/About";
 import Projects from "./components/Projects/Project";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Contact from "./components/About/Contact";
+import Footer from "./components/Topbottom/Footer";
 // import Resume from './components/Resume';
 
 function App()  {
