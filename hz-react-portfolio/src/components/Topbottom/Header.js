@@ -46,20 +46,18 @@ const Header = ({ currentPage, handlePageChange }) => {
     </nav>
    
    
-
     <header class="masthead text-center">
     <div class="container d-flex align-items-center flex-column">
 
         
             
-        <h1 class="masthead-heading text-uppercase mb-0"> Future Product Manager</h1>
+        <h1 class="masthead-heading text-uppercase mb-0"> Future Project Manager </h1> 
         <h3 class="masthead-subheading  mb-0"></h3>
 
         
         <div class="divider-custom divider-light">
             <div class="divider-custom-line"></div>
-            <div class="divider-custom-icon"><i class="fas fa-paw fa-beat"></i></div>
-            <div class="divider-custom-line"></div>
+        
         </div>
         
         </div>

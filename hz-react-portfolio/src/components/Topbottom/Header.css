@@ -123,9 +123,9 @@
 
 .masthead {
   /* padding-top: calc(6rem + 74px); */
-  padding-bottom: 8rem;
+  /* padding-bottom: 8rem; */
   background-color: rgb(255, 241, 230, .25);
-  
+  font-style: italic;
 }
 
 .masthead .masthead-heading {

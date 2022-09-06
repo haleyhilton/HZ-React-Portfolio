@@ -7,7 +7,23 @@ import Projects from "./components/Projects/Project";
 import Contact from "./components/About/Contact";
 import Footer from "./components/Topbottom/Footer";
 // import Resume from './components/Resume';
+function createMastText () {
+  let addr = window.location.href.split("/")
+  let url = addr[addr.length-1];
+  console.log(url)
+  // const url = "/"
+  if ( url === '') {
+    return {headerText: 'Future Product Manager', subHeaderText: ''};
+  } 
+  else if ( url === 'about') {
+    return {headerText: 'OUR STORY', subHeaderText: 'Founded in San Diego, California'};
+  } 
+  else if ( url === 'contact') {
+    return {headerText: 'example head text', subHeaderText: 'example sub text'};
+  } 
 
+
+}
 function App()  {
   const [currentPage, setPage] = useState("About");
 
@@ -30,7 +46,7 @@ function App()  {
 
   return (
       <div className="App">
-        <Header currentPage={currentPage} handlePageChange={handlePageChange} />
+        <Header {...createMastText()} currentPage={currentPage} handlePageChange={handlePageChange} />
         {renderPage()}
        
         <Footer />

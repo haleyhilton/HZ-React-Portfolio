@@ -1,9 +1,11 @@
 import React from 'react';
+import './About.css'
 
 export default function About() {
   return (
     <div>
-      <h1>Oh hey, I'm Haley!</h1>
+      <div className="greeting">Oh hey, I'm Haley!</div>
+      <div class="container">
       <p>
       My name is Haley and I'm currently a performance coach for ten retail managers nationally, and an
                 aspiring software developer.
@@ -14,6 +16,7 @@ export default function About() {
                 The ability to enhance experiences and my desire to leave things better than I found them, are what led
                 me to pursue a career.
       </p>
+      </div>
     </div>
   );
 }

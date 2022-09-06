@@ -10,9 +10,9 @@ function Project() {
   return (
     <Container fluid className="project-section">
       <Container>
-        <h1 className="project-heading text-center">
+        {/* <h1 className="project-heading text-center">
           Recent Work
-        </h1>
+        </h1> */}
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                {projectData.map(project => (
                  <Col md={4} className="project-card" key={project.id}>

@@ -1,7 +1,7 @@
 import Image from "../../images/landing-screenshot.png"
 import Image2 from "../../images/scheduler.png"
 import Image3 from "../../images/tester.png"
-// import Image4 from "../../images/"
+import Image4 from "../../images/notwordle.png"
 
 
 const projectData = [
@@ -31,11 +31,11 @@ const projectData = [
       },
       {
         id: 4,
-        image_url: Image2,
+        image_url: Image4,
         title: "Not Wordle",
         description: "A vanilla Javascript version of NOT Worlde - project created for fun.",
         repo_url: "https://github.com/haleyhilton/Not-Wordle",
-        deployed_url: "TBD"
+        deployed_url: "https://haleyhilton.github.io/Not-Wordle/"
       },
      
 ];
