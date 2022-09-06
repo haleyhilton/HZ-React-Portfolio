@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e8f37bbb.js",
-    "static/js/787.4b786a80.chunk.js": "/static/js/787.4b786a80.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e8f37bbb.js.map": "/static/js/main.e8f37bbb.js.map",
-    "787.4b786a80.chunk.js.map": "/static/js/787.4b786a80.chunk.js.map"
+    "main.css": "/HZ-React-Portfolio/static/css/main.73125b7e.css",
+    "main.js": "/HZ-React-Portfolio/static/js/main.69e13f54.js",
+    "static/media/tester.png": "/HZ-React-Portfolio/static/media/tester.53007a705339e43726d0.png",
+    "static/media/notwordle.png": "/HZ-React-Portfolio/static/media/notwordle.0067d2fd1a6259fdbef6.png",
+    "static/media/Haley Hilton Zito (2).pdf": "/HZ-React-Portfolio/static/media/Haley Hilton Zito (2).89dbe3d72d802e2c9687.pdf",
+    "static/media/landing-screenshot.png": "/HZ-React-Portfolio/static/media/landing-screenshot.8cd0e0563802a632f41b.png",
+    "static/media/scheduler.png": "/HZ-React-Portfolio/static/media/scheduler.ec35fa0a941b7de37503.png",
+    "static/media/oaxaca.jpg": "/HZ-React-Portfolio/static/media/oaxaca.e5b31e71209013ccba92.jpg",
+    "static/media/KulimPark-SemiBold.woff": "/HZ-React-Portfolio/static/media/KulimPark-SemiBold.79528ecf4c20ff5a4215.woff",
+    "static/media/RemboyRegular.woff": "/HZ-React-Portfolio/static/media/RemboyRegular.0f48b2f189f396c4bd34.woff",
+    "index.html": "/HZ-React-Portfolio/index.html",
+    "main.73125b7e.css.map": "/HZ-React-Portfolio/static/css/main.73125b7e.css.map",
+    "main.69e13f54.js.map": "/HZ-React-Portfolio/static/js/main.69e13f54.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e8f37bbb.js"
+    "static/css/main.73125b7e.css",
+    "static/js/main.69e13f54.js"
   ]
 }
