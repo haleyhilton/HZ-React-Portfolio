@@ -25,7 +25,7 @@ const Header = ({ currentPage, handlePageChange }) => {
           href="#projects"
           onClick={() => handlePageChange('Projects')}
           className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
-        > Projects
+        > Work
         </a>
       </li>
       <li className="nav-item">

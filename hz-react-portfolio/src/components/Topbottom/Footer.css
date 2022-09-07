@@ -4,13 +4,13 @@
     justify-content: center;
     bottom: 0;
     background-color: #b7b7a4;
-    height: 8em;
     width: 100%;
   }
 
   .links {
     margin: 2rem;
     display: flex;
+    justify-content: space-between;
     font-size: large;
     color: #fff1e6
   }
@@ -27,3 +27,15 @@
   a {
       text-decoration: none
   }
+.btn-social{
+  border-radius: 100%;
+  display: inline-flex;
+  width: 8rem;
+  height: 5rem;
+  justify-content: center;
+  align-items: center;
+  color: #fff1e6;
+  background-color: #b7b7a4;
+  border: solid;
+  border-radius: 100%;
+  font-size: 2vw;}

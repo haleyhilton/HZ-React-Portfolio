@@ -93,6 +93,25 @@
   justify-content: center;
 }
 
+.navbar-brand:hover {
+  /* padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem; */
+  margin-right: 1rem;
+  white-space: nowrap;
+  font-family: 'RemboyRegular', sans-serif;
+  position: sticky;
+  display: flex;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+  background-color: #b7b7a4;
+  width: 100%;
+  align-items: center;
+  color: white;
+  font-size: 10vw;
+  justify-content: center;
+}
+
 .navbar-nav {
   display: flex;
   flex-direction: column;

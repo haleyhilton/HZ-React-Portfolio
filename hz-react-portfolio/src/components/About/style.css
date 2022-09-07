@@ -1,6 +1,6 @@
 .contact-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     color: #cb997e;
 }
@@ -60,5 +60,15 @@ a {
 
       img {
           border-radius: 100%;
+      }
+
+      .contact-container {
+        font-family: 'KulimPark-SemiBold';
+        font-size: xx-large;
+      }
+
+      a:hover {
+        color: #eccbb1;
+
       }
       
