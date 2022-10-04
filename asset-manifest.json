@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/HZ-React-Portfolio/static/css/main.73125b7e.css",
-    "main.js": "/HZ-React-Portfolio/static/js/main.69e13f54.js",
+    "main.css": "/HZ-React-Portfolio/static/css/main.49baa0ab.css",
+    "main.js": "/HZ-React-Portfolio/static/js/main.241ee36f.js",
     "static/media/tester.png": "/HZ-React-Portfolio/static/media/tester.53007a705339e43726d0.png",
+    "static/media/about.jpg": "/HZ-React-Portfolio/static/media/about.918a550eeebd3374d9f8.jpg",
+    "static/media/DoHyeon-Regular.woff": "/HZ-React-Portfolio/static/media/DoHyeon-Regular.f491f14b4feff62daf3d.woff",
     "static/media/notwordle.png": "/HZ-React-Portfolio/static/media/notwordle.0067d2fd1a6259fdbef6.png",
     "static/media/Haley Hilton Zito (2).pdf": "/HZ-React-Portfolio/static/media/Haley Hilton Zito (2).89dbe3d72d802e2c9687.pdf",
     "static/media/landing-screenshot.png": "/HZ-React-Portfolio/static/media/landing-screenshot.8cd0e0563802a632f41b.png",
     "static/media/scheduler.png": "/HZ-React-Portfolio/static/media/scheduler.ec35fa0a941b7de37503.png",
     "static/media/oaxaca.jpg": "/HZ-React-Portfolio/static/media/oaxaca.e5b31e71209013ccba92.jpg",
+    "static/media/Inter-Bold.woff": "/HZ-React-Portfolio/static/media/Inter-Bold.8f8c5ea1d3a580b04e28.woff",
+    "static/media/Inter-SemiBold.woff": "/HZ-React-Portfolio/static/media/Inter-SemiBold.8709b7f1f6fabaaa7896.woff",
+    "static/media/Inter-Black.woff": "/HZ-React-Portfolio/static/media/Inter-Black.573292a805d572a8fab2.woff",
+    "static/media/Inter-Regular.woff": "/HZ-React-Portfolio/static/media/Inter-Regular.f8c4b51c613b8c0f88ea.woff",
+    "static/media/Haley-Zito-Resume.pdf": "/HZ-React-Portfolio/static/media/Haley-Zito-Resume.89e9660ab696f269c412.pdf",
     "static/media/KulimPark-SemiBold.woff": "/HZ-React-Portfolio/static/media/KulimPark-SemiBold.79528ecf4c20ff5a4215.woff",
     "static/media/RemboyRegular.woff": "/HZ-React-Portfolio/static/media/RemboyRegular.0f48b2f189f396c4bd34.woff",
+    "static/media/hat.png": "/HZ-React-Portfolio/static/media/hat.60a1aa138c02b88486a0.png",
     "index.html": "/HZ-React-Portfolio/index.html",
-    "main.73125b7e.css.map": "/HZ-React-Portfolio/static/css/main.73125b7e.css.map",
-    "main.69e13f54.js.map": "/HZ-React-Portfolio/static/js/main.69e13f54.js.map"
+    "main.49baa0ab.css.map": "/HZ-React-Portfolio/static/css/main.49baa0ab.css.map",
+    "main.241ee36f.js.map": "/HZ-React-Portfolio/static/js/main.241ee36f.js.map"
   },
   "entrypoints": [
-    "static/css/main.73125b7e.css",
-    "static/js/main.69e13f54.js"
+    "static/css/main.49baa0ab.css",
+    "static/js/main.241ee36f.js"
   ]
 }
