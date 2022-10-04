@@ -7,7 +7,7 @@ function Footer () {
       <div>
        <footer className="footer text-center socialLinks">
 
-        <h2>Get In Touch</h2><br /><br />
+        <h2 className='footer-title'>Get In Touch</h2><br /><br />
         <a className='footer-email' href=" mailto: haleymariehilton@gmail.com">haleymariehilton@gmail.com</a>
                 <div className="links">
                     <a className="btn btn-outline-light btn-social" href="https://linkedin.com/in/haleyhilton"><i

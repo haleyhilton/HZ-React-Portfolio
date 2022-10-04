@@ -7,6 +7,8 @@ import Projects from "./components/Projects/Project";
 import Contact from "./components/About/Contact";
 import Footer from "./components/Topbottom/Footer";
 import Grid from "./components/Grid/Grid"
+import FooterMast from "./components/Topbottom/FooterMast";
+
 // import Resume from './components/Resume';
 // function createMastText () {
 //   let addr = window.location.href.split("/")
@@ -52,6 +54,7 @@ function App()  {
         // {renderPage()} */}
         <About />
         <Grid />
+        <FooterMast />
         <Footer />
       </div>
     
