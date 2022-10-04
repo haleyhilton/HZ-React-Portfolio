@@ -1,13 +1,15 @@
 import React from 'react';
-import './About.css'
+import './About.css';
+import Headshot from "./Assets/Images/about.jpg"
+
 
 export default function About() {
   return (
-    <div>
-      <div className="greeting">Oh hey, I'm Haley!</div>
-      <div class="container">
+    <div className='row about-container'>
+      <div className=" column left">
+        <h3>Haley Hilton Zito</h3>
       <p>
-      My name is Haley and I'm currently a performance coach for ten retail managers nationally, and an
+      My name is Haley and I'm currently a performance coach for twelve retail managers nationally, and an
                 aspiring software developer.
                 I have extensive experience in project management and staff leadership in B2B technology, e-commerce and
                 DTC.
@@ -17,6 +19,10 @@ export default function About() {
                 me to pursue a career.
       </p>
       </div>
+      <div className="column right">
+      <img className='headshot' src={Headshot} alt=""/>     
+      </div>
+
     </div>
   );
 }

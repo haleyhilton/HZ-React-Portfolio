@@ -8,9 +8,9 @@ function ProjectCard (props) {
   return (
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.image_url} alt={props.title} />
-      <Card.Body>
+      {/* <Card.Body>
         <Card.Title><h4>{props.title}</h4></Card.Title>
-        <Card.Text>
+        {/* <Card.Text>
           {props.description}
         </Card.Text>
         <Button variant="light" href={props.repo_url} target="_blank">
@@ -19,8 +19,8 @@ function ProjectCard (props) {
         
         <Button variant="light" href={props.deployed_url} target="_blank">
           <BiLinkExternal /> View App
-        </Button>
-      </Card.Body>
+        </Button> 
+      </Card.Body> */}
     </Card>
   );
 }

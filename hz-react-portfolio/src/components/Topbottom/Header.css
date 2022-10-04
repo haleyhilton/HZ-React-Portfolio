@@ -1,14 +1,60 @@
 @font-face {
   font-family: 'RemboyRegular';
-  src: url('../Topbottom/RemboyRegular.woff') format('woff');
-  font-weight: normal;
+  src: url('./Assets/Fonts/RemboyRegular.woff') format('woff');
 }
+
 @font-face {
   font-family: 'KulimPark-SemiBold';
-  src: url('../Topbottom/KulimPark-SemiBold.woff') format('woff');
+  src: url('./Assets/Fonts/KulimPark-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-SemiBold';
+  src: url('./Assets/Fonts/Inter-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-Regular';
+  src: url('./Assets/Fonts/Inter-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-Bold';
+  src: url('./Assets/Fonts/Inter-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-Black';
+  src: url('./Assets/Fonts/Inter-Black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DoHyeon-Regular';
+  src: url('./Assets/Fonts/DoHyeon-Regular.woff') format('woff');
+}
+
+.header-container {
+  background-color: #F3F3CE;
+  padding-top: 4%;
+  padding-bottom: calc(6% + 40px);
 }
 
 .navbar {
+  background-color: #FAFAEB;
+  padding: 1rem 2rem;
+  border-radius: 15px;
+  margin: 40px 50px;
+  justify-content: space-between;
+  position: absolute;
+}
+
+.nav-item, .nav-link {
+  font-size: medium;
+  color: #242B1A !important;
+  font-family: 'Inter-Regular';
+}
+
+/* .navbar {
   position: sticky;
   display: flex;
 
@@ -74,10 +120,10 @@
   font-family: 'SulphurPoint-Regular';
 }
 
-.navbar-brand {
+.navbar-brand { */
   /* padding-top: 0.3125rem;
   padding-bottom: 0.3125rem; */
-  margin-right: 1rem;
+  /* margin-right: 1rem;
   white-space: nowrap;
   font-family: 'RemboyRegular', sans-serif;
   position: sticky;
@@ -93,10 +139,10 @@
   justify-content: center;
 }
 
-.navbar-brand:hover {
+.navbar-brand:hover { */
   /* padding-top: 0.3125rem;
   padding-bottom: 0.3125rem; */
-  margin-right: 1rem;
+  /* margin-right: 1rem;
   white-space: nowrap;
   font-family: 'RemboyRegular', sans-serif;
   position: sticky;
@@ -127,7 +173,7 @@
 
 .navbar-nav .dropdown-menu {
   position: static;
-}
+} */
 
 /* .navbar-text {
   padding-top: 0.5rem;
