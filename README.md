@@ -32,36 +32,30 @@ This project is covered under the MIT license.
 
 ## Usage Information
 
-Link showing functionality, usage and final deployment [here](https://thepetconnection.herokuapp.com/)
+Link showing functionality, usage and final deployment [here](https://haleyhilton.github.io/HZ-React-Portfolio/)
 
 <a name="Future-Development"></a>
 
 ## Future Development
 
-**Dog escrow:** Act as an intermediary between buyer and breeder to ensure safe and easy sales. Take a portion of sales
+**Mobile Responsive:** 
 
-**Robust Social Media:** Allow users to interact with breeder posts and follow breeders or litters. Additionally, allow buyers / users to post photos of their dogs and give breeders the ability to
+**Project Additions:** 
 
-A. Keep tabs on past litters
-B. Provide breeders with ongoing and licensed social content and testimonial
-
-**Vetting and validation:** Buyers have the opportunity to submit medical records, AKC registration and other forms to further accredit their business
+**Multiple Pages:** 
 
 <a name="Screenshots"></a>
 
 ## Screenshots
 
-![Landing page search](/public/images/landing-screenshot.png)
+![Figma Mock-up](/hz-react-portfolio/src/images/mock-up.png)
 
 <a name="Questions"></a>
 
 ## Questions
 
-The authors' preferred method of contact is: Email
+The author's preferred method of contact is: Email
+Let's chat!
 
-Email us at:<br>
-[David Rios](riosdavid16@gmail.com)<br>
-[David Ryan](dryan10101@gmail.com)<br>
 [Haley Hilton Zito](haleymariehilton@gmail.com)<br>
-[Josh Jankowski](joshjankowski@gmail.com)<br>
-[Nathan Stein](NathanStein@gmail.com)<br>
+
