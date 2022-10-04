@@ -7,14 +7,12 @@ This project is covered under the MIT license.
 <a name="Description"></a>
 
 ## Description
-
+Quick React Portfolio showcasing my work and design implementation from idea to fruition. This allows potential employers or clients to reach out and view my work, LinkedIn and resume.
 
 
 # Table of Contents
 
 - [Description](#Description)
-
-- [Installation](#Installation-Instructions)
 
 - [Usage](#usage)
 
@@ -24,9 +22,6 @@ This project is covered under the MIT license.
 
 - [Contact](#questions)
 
-<a name="Installation-Instructions"></a>
-
-## Installation Instructions
 
 <a name="Usage"></a>
 
