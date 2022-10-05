@@ -7,11 +7,14 @@ export const ImageGrid = ({ data, gridArea, heading }) => {
       <div className="image-grid" style={{ gridTemplateAreas: gridArea }}>
         {data.map((item, index) => (
           <div className={`box${index + 1}`} key={index}>
+            <a href={item.url}>
+
             <FullWidthBgImage
               text={item.title}
               label={item.label}
               image={item.image}
             />
+            </a>
           </div>
         ))}
       </div>

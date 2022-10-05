@@ -44,6 +44,7 @@ Link showing functionality, usage and final deployment [here](https://haleyhilto
 ## Screenshots
 
 ![Figma Mock-up](/hz-react-portfolio/src/images/mock-up.png)
+Mock-up made in Figma prior to creation
 
 <a name="Questions"></a>
 

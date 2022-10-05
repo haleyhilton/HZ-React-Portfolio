@@ -8,21 +8,25 @@ export const imageData = [
     {
     title: "PetConnect",
     label: "UX / UI",
-    image: Image
+    image: Image,
+    url: "https://thepetconnect.herokuapp.com/"
   },
   {
     title: "Work Day Scheduler",
     label: "Full Stack",
-    image: Image2
+    image: Image2,
+    url: "https://haleyhilton.github.io/Zito-Work-Day-Scheduler/"
   },
   {
     title: "Date Night Generator",
     label: "Front End",
-    image: Image3
+    image: Image3,
+    url: "https://haleyhilton.github.io/No-Clue-What-To-Do/"
 },
   {
     title: "Not Wordle",
     label: "Full Stack",
-    image: Image4
+    image: Image4,
+    url: "https://haleyhilton.github.io/Not-Wordle/"
 }
 ];

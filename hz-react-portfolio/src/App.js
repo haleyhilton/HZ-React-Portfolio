@@ -9,24 +9,7 @@ import Footer from "./components/Topbottom/Footer";
 import Grid from "./components/Grid/Grid"
 import FooterMast from "./components/Topbottom/FooterMast";
 
-// import Resume from './components/Resume';
-// function createMastText () {
-//   let addr = window.location.href.split("/")
-//   let url = addr[addr.length-1];
-//   console.log(url)
-//   // const url = "/"
-//   if ( url === '') {
-//     return {headerText: 'Future Product Manager', subHeaderText: ''};
-//   } 
-//   else if ( url === 'about') {
-//     return {headerText: 'OUR STORY', subHeaderText: 'Founded in San Diego, California'};
-//   } 
-//   else if ( url === 'contact') {
-//     return {headerText: 'example head text', subHeaderText: 'example sub text'};
-//   } 
 
-
-// }
 function App()  {
   // const [currentPage, setPage] = useState("About");
 
@@ -52,7 +35,7 @@ function App()  {
         <Header />
         {/* // currentPage={currentPage} handlePageChange={handlePageChange} 
         // {renderPage()} */}
-        <About />
+        <About path="/About" />
         <Grid />
         <FooterMast />
         <Footer />
